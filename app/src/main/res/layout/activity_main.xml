@@ -8,6 +8,7 @@
 
     <androidx.fragment.app.FragmentContainerView
         android:id="@+id/game_fragment"
+        android:name="id.graceannafitrisinaga.arsitekturaplikasigrace.ui.game.GameFragment"
         android:layout_width="0dp"
         android:layout_height="0dp"
         app:layout_constraintLeft_toLeftOf="parent"
